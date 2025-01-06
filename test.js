@@ -1,1 +1,1 @@
-alert("ZZZZZZ");
+alert("ZZZZZZ"); prompt(1);
