@@ -1,1 +1,1 @@
-alert("XSS POC ZZZ");
+alert("XSS POC");
