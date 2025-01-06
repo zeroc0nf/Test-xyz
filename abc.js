@@ -1,1 +1,1 @@
-prompt("ZZZZZZZZ");
+prompt(1);
